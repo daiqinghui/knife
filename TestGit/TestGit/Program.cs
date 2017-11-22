@@ -11,6 +11,7 @@ namespace TestGit
         {
             Console.WriteLine("TestGit Success!");
             Console.WriteLine("Test Edit");
+            Console.WriteLine("Test another edit");
             Console.Read();
 
         }
