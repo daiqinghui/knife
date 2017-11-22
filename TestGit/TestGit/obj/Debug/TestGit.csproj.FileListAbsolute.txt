@@ -1,0 +1,5 @@
+E:\Git-LensCone\test\knife\TestGit\TestGit\bin\Debug\TestGit.exe
+E:\Git-LensCone\test\knife\TestGit\TestGit\bin\Debug\TestGit.pdb
+E:\Git-LensCone\test\knife\TestGit\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
+E:\Git-LensCone\test\knife\TestGit\TestGit\obj\Debug\TestGit.exe
+E:\Git-LensCone\test\knife\TestGit\TestGit\obj\Debug\TestGit.pdb
