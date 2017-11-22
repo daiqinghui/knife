@@ -9,6 +9,9 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TestGit Success!");
+            Console.Read();
+
         }
     }
 }
